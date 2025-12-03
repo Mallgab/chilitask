@@ -1,0 +1,15 @@
+# https://hygraph.com/blog/routing-in-react
+For implementing redirection to ProductDetails page onClick(e)
+
+#  https://dummyjson.com/docs/products#products-search
+The Fake API used to fetch Product based on inputed searchTerm
+
+# https://reactnative.dev/docs/network
+Used as a template to write fetchProducts() and also further on implementing storing / displaying fetched data based on input
+
+# https://tailwindcss.com/docs/installation/using-vite
+Went through the documentation. However used Chat GPT to quickly build simple design that is displayed
+
+# Additionally watched a few youtube tutorials, that explained react basics while implementing similar projects
+
+# Used Cursor to resolve deploymnent issues that I encountered trying to make Git commits 
