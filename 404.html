@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+      // Single-Page Apps with history management: redirect all 404s to index.html
+      // (this file is only needed for GitHub Pages, if you use another hosting provider, you might need to configure this on your server)
+      var pathSegments = location.pathname.split('/');
+      // Assume the base path is the repository name, e.g. /my-repo/index.html
+      // This might need adjustment based on your actual GitHub Pages URL and base configuration in vite.config.ts
+      var basename = "/chilitask/"; // This should match the 'base' in your vite.config.ts
+      var redirect = basename + 'index.html';
+      location.replace(redirect);
+    </script>
+  </head>
+  <body></body>
+</html>
